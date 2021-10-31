@@ -1,5 +1,4 @@
 import time
-
 from ppadb.client import Client as AdbClient
 
 def connect():
