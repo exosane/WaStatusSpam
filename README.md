@@ -1,2 +1,2 @@
 # WaStatusSpamer
-This simple python script can post Whatsapp statuses automaticaly
+![Wa](/img/WA.jpg)
